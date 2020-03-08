@@ -1,9 +1,9 @@
 name: ShopOnSign
-version: "1.0.0"
+version: "1.1.0"
 api: [3.0.0-ALPHA12, 3.0.0, 4.0.0]
 main: brokiem\ShopOnSign\EconomyShop
 author: onebone, brokiem
-description: ShopOnSign Plugin!
+description: Shop On Sign Plugin For PMMP
 depend: [EconomyAPI]
 
 permissions:
@@ -12,7 +12,7 @@ permissions:
   default: op
   children:
    economyshop.shop.*:
-    description: Allows all functions about shops
+    description: Allows all functions about ShopOnSign
     default: op
     children:
      economyshop.shop.buy:
