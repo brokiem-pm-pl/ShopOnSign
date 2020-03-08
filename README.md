@@ -1,2 +1,2 @@
 # ShopOnSign
-A Shop On Sign 
+A Shop On Sign Plugin
