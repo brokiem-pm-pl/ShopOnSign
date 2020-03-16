@@ -1,7 +1,8 @@
 # ShopOnSign
 A Shop On Sign Plugin
 
-**Sign:**
+
+**How To Create Shop On Sign:**
 
 ```
 Line 1 : shop
